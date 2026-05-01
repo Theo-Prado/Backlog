@@ -1,4 +1,4 @@
-## 🌌 [NOME DO PROJETO] — Backlog Oficial
+## 🌌 Backlog Oficial do [Meu GitHub]
 
 "Toda grande feature nasce de um caos organizado. Aqui, o caos vira clareza."
 
