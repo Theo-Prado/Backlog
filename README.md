@@ -1,17 +1,17 @@
-## 💻 - Backlog do [Meu GitHub]
+## 💻 - Backlog for [My GitHub]
 
 ---
 
-💡 - Todas as ideias de features de meus projetos em um só lugar!
+💡 - All feature ideas for my projects in one place!
 
 ---
 
-"Relaxa, tá no backlog!"
+"Relax, it's in the backlog!"
 
-❓ - O que você vai achar aqui?
+❓ - What will you find here?
 
-- 💡 - Todas principais ideias dos projetos;
+- 💡 - All the main project ideas;
 - 🔧 - Issues;
-- ♾️ - E muito mais!
+- ♾️ - And much more!
 
 ---
